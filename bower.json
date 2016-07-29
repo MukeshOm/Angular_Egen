@@ -1,0 +1,14 @@
+{
+  "name": "Angular_Egen",
+  "homepage": "https://github.com/MukeshOm/Test",
+  "authors": [
+    "MukeshOm <mukesh.dommati92@gmail.com>"
+  ],
+  "description": "Password Strength Meter",
+  "main": "",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
+}
